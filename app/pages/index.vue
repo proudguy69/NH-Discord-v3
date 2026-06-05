@@ -16,7 +16,7 @@
 import type { PricingPlanProps } from '@nuxt/ui';
 
 
-const hero_description = "Join a welcoming New Hampshire community where locals meet new friends, share events, and talk about life in the Granite State. Whether you’re here for gaming, dating, or casual chat, there’s always someone nearby to connect with"
+const hero_description = "Join a welcoming New Hampshire community where locals meet new friends, share events, and talk about life in the Granite State. Whether you’re here for gaming, or casual chat, there’s always someone nearby to connect with"
 
 const plans = ref<PricingPlanProps[]>([
     {
